@@ -1,0 +1,12 @@
+.text{
+    text-align: center;
+    border-radius: 2px;
+    border: 1px solid wheat;
+    background-color: coral;
+    color: white;
+}
+.row{
+    background-color: orange;
+    padding: 10px ;
+   font-size: 30px;
+}
